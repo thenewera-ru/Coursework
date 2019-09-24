@@ -6,7 +6,7 @@ the algorithm that was being used on Russian satellites in the middle of 80-90 y
 ![Intro](./images/Intro.png)
 
 In the second part I analyze the accuracy of the given algorithm using [Pontryagin's maximum principle](https://en.wikipedia.org/wiki/Pontryagin%27s_maximum_principle).
-Te main results are partly depicted below.
+Main results are partly depicted below.
 ![AccuracyResult_1](./images/AccuracyResult_1.png)
 ![AccuracyResult_2](./images/AccuracyResult_2.png)
 
